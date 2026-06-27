@@ -1,0 +1,29 @@
+[
+  {
+    "id": "1",
+    "title": "Complete Developer Assignment",
+    "description": "Generate a full-stack Todo application with Express.js and React. Keep it modular and clean.",
+    "completed": false,
+    "priority": "high",
+    "createdAt": "2026-06-27T08:00:00.000Z",
+    "updatedAt": "2026-06-27T08:00:00.000Z"
+  },
+  {
+    "id": "2",
+    "title": "Write Comprehensive Documentation",
+    "description": "Draft a README.md file highlighting features, folder structure, and setup instructions.",
+    "completed": true,
+    "priority": "medium",
+    "createdAt": "2026-06-27T08:30:00.000Z",
+    "updatedAt": "2026-06-27T09:00:00.000Z"
+  },
+  {
+    "id": "3",
+    "title": "Review Code Quality and Design",
+    "description": "Polishing UI spacing, margins, color contrast, and making sure animations feel fluid.",
+    "completed": false,
+    "priority": "low",
+    "createdAt": "2026-06-27T09:15:00.000Z",
+    "updatedAt": "2026-06-27T09:15:00.000Z"
+  }
+]
